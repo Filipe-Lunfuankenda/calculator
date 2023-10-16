@@ -3,13 +3,11 @@
 
 using CalculatorApp.Common;
 using CalculatorApp.ViewModel.Common;
-
 using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Diagnostics;
 using System.Threading.Tasks;
-
 using Windows.ApplicationModel.Core;
 using Windows.UI.Core;
 using Windows.UI.ViewManagement;
